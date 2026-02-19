@@ -23,4 +23,4 @@ Desenvolvi este projeto como parte dos meus estudos, com foco em números primos
 
 ## 🛠️ Tecnologias
 
-- Python 3
+- Python
